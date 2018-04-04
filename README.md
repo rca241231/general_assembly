@@ -13,3 +13,7 @@ git clone https://gist.github.com/b5c536467c30d66ab97cd1f5c9a3497d.git
 ```
 pip3 install jupyter
 ```
+4. Launch Jupyter Notebook
+```
+jupyter notebook
+```
